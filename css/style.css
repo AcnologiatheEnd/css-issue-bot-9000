@@ -22,3 +22,9 @@ h2 {
   background: #ccc;
   text-decoration: underline;
 }
+
+img {
+  border-radius: 8px;
+  width: 400px;
+  height: 400px;
+}
